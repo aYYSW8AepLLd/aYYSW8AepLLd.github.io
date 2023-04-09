@@ -16,5 +16,7 @@ Here, you can download all the games I make.
 
 Download FlappyBird Game:[Click here](https://easylink.cc/xj2g2b)
 
+Tips:After this file is decompression, there is a FlappyBird.py file, which is the main program of the game, running needs to install Python and Pygame, after installing Python, press Win + R, call out the running box, enter cmd inside, enter "pip install pygame" in cmd, if this step fails, look for a solution on the Internet.
+
 
 
