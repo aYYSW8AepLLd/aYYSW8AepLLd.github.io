@@ -10,7 +10,7 @@ And Windows beta system installation tutorials, Python programming tutorials, an
 Here, you can download all the games I make.
 
 ## FlappyBird
-### data:2023/04/09(YYYY/MM/DD) 15:58
+data:2023/04/09(YYYY/MM/DD) 15:58
 
 ![image](https://user-images.githubusercontent.com/130227980/230760838-a70868c1-ead5-4d7e-99be-c7beee535e87.png)
 ![image](https://user-images.githubusercontent.com/130227980/230760896-dd8396a9-26e0-493f-a502-1fe12383843d.png)
