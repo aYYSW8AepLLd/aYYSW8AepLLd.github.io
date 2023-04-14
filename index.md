@@ -27,3 +27,4 @@ Press the space to let the bird fly
 
 After the game is over, press the space to start again.
 
+Based on<span > <img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />fabrication
