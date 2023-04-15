@@ -19,10 +19,6 @@ The reading time is within about 1 minute
 ![image](https://user-images.githubusercontent.com/130227980/230760896-dd8396a9-26e0-493f-a502-1fe12383843d.png)
 ![3](https://user-images.githubusercontent.com/130227980/230760908-5bffdf9c-8172-498b-bd8b-9abe9c12cbeb.PNG)
 
-movie:
-
-https://user-images.githubusercontent.com/130227980/232228796-bc72727b-2493-44fb-83a6-00167f41277d.mp4
-
 
 
 
