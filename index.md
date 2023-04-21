@@ -7,10 +7,11 @@ Or, download all the games I make.
 
 And Windows beta system installation tutorials, Python programming tutorials, and more...
 
-# Game 
+# Download
+## Game 
 Here, you can download all the games I make.
 
-## FlappyBird
+### FlappyBird
 data:2023/04/09(YYYY/MM/DD) 15:58
 
 The reading time is within about 1 minute
