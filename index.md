@@ -8,6 +8,11 @@ Or, download all the games I make.
 And Windows beta system installation tutorials, Python programming tutorials, and more...
 
 # Download
+
+Here, you can download it to the Windows beta iso (although not much).
+
+Or, download all the games I make.
+
 ## Game 
 Here, you can download all the games I make.
 
@@ -32,3 +37,16 @@ Press the space to let the bird fly
 After the game is over, press the space to start again.
 
 Based on<span > <img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />fabrication
+
+# Tutorials
+
+## Python
+
+### Lesson 1 Install Python
+data:2023/04/21(YYYY/MM/DD) 20:25
+
+Please to https://www.python.org/downloads/ download Python.
+
+Select the version you want (here use python3.7.5. If Windows XP system, select 3.4.3 (possible subsequent trouble))
+  
+If it is a macos system, select "Macintosh" below.
