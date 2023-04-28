@@ -17,7 +17,7 @@ Or, download all the games I make.
 Here, you can download all the games I make.
 
 ### FlappyBird
-data:2023/04/09(YYYY/MM/DD) 15:58
+data:2023/04/09(YYYY/MM/DD) 15:58 Sunday
 
 The reading time is within about 1 minute
 
@@ -43,10 +43,19 @@ Based on<span > <img src="https://img.shields.io/badge/-Python-E34F26?style=flat
 ## Python
 
 ### Lesson 1 Install Python
-data:2023/04/21(YYYY/MM/DD) 20:25
+data:2023/04/21(YYYY/MM/DD) 20:25 Friday
 
 Please to https://www.python.org/downloads/ download Python.
 
 Select the version you want (here use python3.7.5. If Windows XP system, select 3.4.3 (possible subsequent trouble))
   
 If it is a macos system, select "Macintosh" below.
+  
+Next, look at your system digits, in the control panel system and security in the system, if it is 64 bit, download x64 version, if it is 32 version download x86 version (this method is only suitable for Windows)
+  
+If it is a MacOS system, I don't know, look for solutions on the Internet.
+  
+After downloading, click the installation package, check "Add Python to PATH", click "Install now" button, then click "Next" button all the way, wait for the progress bar to run full, and the installation is complete.
+  
+Press Win + R to call the running box. Enter cmd to the run box enter py in cmd if no error then the installation succeeded and added to the environment variable. If you make a mistake, I suggest you reinstall it.(this method is only suitable for Windows)
+
