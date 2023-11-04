@@ -3,9 +3,10 @@
 
 # 下载专区
 
-##游戏
+## 游戏
+自制的和网上找的
 
-### <span > <img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />版FlappyBird
+### <span > <img src="https://img.shields.io/badge/-Python-E34F26?style=flat-square&logo=Python&logoColor=white" />Python版FlappyBird
 发布日期:2023/04/09(YYYY/MM/DD) 15:58 Sunday
 
 
@@ -16,7 +17,7 @@
 
 
 
-下载链接:[请点我](https://codeload.github.com/aYYSW8AepLLd/FlappyBird/zip/refs/heads/main)
+下载链接:[请点我](https://wwqm.lanzouj.com/irLYt1drb2ch)
 
 温馨提示：这个文件解压后，有一个 FlappyBird.py 文件，就是游戏的主程序，运行需要安装Python和Pygame，安装Python后，按Win+R，调出运行框，在cmd里面输入cmd，在cmd中输入“pip install pygame”，如果这一步失败，在网上寻找解决方案。
 
@@ -24,6 +25,17 @@
 
 游戏结束后，按空格键重新开始。
 
+### 植物大战僵尸Flash试玩版
+文章发布日期：2023/11/4(YYYY/MM/DD)20:16 Sat.
+
+![image](http://jspvz.com/ResDownload/pic/FlashDemo.jpg)
+
+这是当年宝开为宣传PC版一代时而制作的Flash试玩版（4399那版）
+只能玩到2-5！
+
+[下载链接](https://wwqm.lanzouj.com/iWv1h1dr9a7i)
+
+怎么玩自行百度
 
 # 教程
 
