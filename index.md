@@ -1,7 +1,9 @@
 
-## aYYSW8AepLLd.github.io资源站
+## aYYSW8AepLLd.github.io的站
 
 # 下载专区
+
+下载链接整理:[请点我](https://aYYSW8AepLLd.github.io/download.html)
 
 ## 游戏
 自制的和网上找的
