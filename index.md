@@ -33,7 +33,7 @@
 ![image](http://jspvz.com/ResDownload/pic/FlashDemo.jpg)
 
 这是当年宝开为宣传PC版一代时而制作的Flash试玩版（4399那版）
-只能玩到2-5！
+只能玩到2-4！
 
 [下载链接](https://wwqm.lanzouj.com/iWv1h1dr9a7i)
 
