@@ -1,13 +1,12 @@
 
 ## aYYSW8AepLLd.github.io的站
 
-# [Ay作品集](https://mc.dfrobot.com.cn/home.php?mod=space&uid=854277&do=thread&view=me&from=space)
-
 
 # 下载专区
 
 下载链接整理:[请点我](https://aYYSW8AepLLd.github.io/download.html)
 
+[Ay作品集](https://mc.dfrobot.com.cn/home.php?mod=space&uid=854277&do=thread&view=me&from=space)
 ## 游戏
 自制的和网上找的
 
@@ -31,7 +30,7 @@
 游戏结束后，按空格键重新开始。
 
 # DF社区程序更新
-## Win10：V8.05
+## Win10：V8.1
 ## AyOS V1.2
 
 
